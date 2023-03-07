@@ -31,3 +31,31 @@
     font-family: 'berlin-sans-fb-demi-bold', sans-serif;
     border-radius: 50px;
 }
+.q4{
+    color: #43EE7E;
+    font-weight: 800;
+    padding: 10px 40px;
+    background-color: #20583F;
+    display: inline;
+}
+.q5{
+    color: white;
+    font-weight: 900;
+    font-size: 85px;
+}
+.q6{
+    color: white;
+    font-weight: 800;
+}
+.q8{
+    text-decoration: none;
+    font-weight: 800;
+    color: black;
+    background-color: #43EE7E;
+    border-radius: 50px;
+    border: 3px solid white;
+    padding: 15px 30px;
+}
+.q7{
+    padding-top: 50px;
+}
