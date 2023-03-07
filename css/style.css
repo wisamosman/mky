@@ -41,7 +41,7 @@
 .q5{
     color: white;
     font-weight: 900;
-    font-size: 85px;
+    font-size: 80px;
 }
 .q6{
     color: white;
@@ -57,5 +57,17 @@
     padding: 15px 30px;
 }
 .q7{
-    padding-top: 50px;
+    padding-top: 70px;
+}
+.q9{
+    padding-top: 30px;
+}
+.w1{
+    margin-top: 50px;
+}
+.w2{
+    margin-top: 50px;
+}
+.w3{
+    margin-top: 50px;
 }
