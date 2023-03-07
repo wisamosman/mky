@@ -6,6 +6,7 @@
 .nav-link{
     color: white;
     font-weight: 900;
+    font-size: 20px;
 }
 .q3{
     width: 200px;
@@ -16,10 +17,17 @@
 .bi{
     color: white;
     margin-right: 30px;
+    margin-top: 15px;
 }
 .navbar-nav{
-    margin-left: 100px;
+    margin-left: 60px;
 }
 .btn{
-    
+    padding: 13px 60px;
+    border: 3px solid #43EE7E;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    font-family: 'berlin-sans-fb-demi-bold', sans-serif;
+    border-radius: 50px;
 }
